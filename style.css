@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(95, 87, 87, 0.521);
+}
+
+input{
+    width: 20vw;
+    height: 10vh;
+    margin: 5px;
+}
